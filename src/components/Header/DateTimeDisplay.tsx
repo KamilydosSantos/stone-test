@@ -7,7 +7,7 @@ const Container = styled.div`
   gap: 20px;
   width: max-content;
   font-size: 1.125rem;
-  font-weight: 600;
+  font-weight: 500;
   color: ${(props) => props.theme.colors.textSecondary};
 `;
 
