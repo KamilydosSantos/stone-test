@@ -39,7 +39,7 @@ const RadioButtonElement = styled.input`
   display: none;
 
   &:checked + span {
-    border-color: ${(props) => props.theme.colors.main};
+    border-color: ${(props) => props.theme.colors.secondaryGreen};
   }
 
   &:checked + span::before {
@@ -62,7 +62,7 @@ const CustomRadioButton = styled.span`
     width: 14px;
     height: 14px;
     border-radius: 100%;
-    background-color: ${(props) => props.theme.colors.main};
+    background-color: ${(props) => props.theme.colors.secondaryGreen};
     position: absolute;
     top: 5px;
     left: 5px;

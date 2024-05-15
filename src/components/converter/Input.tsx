@@ -31,7 +31,7 @@ const InputElement = styled.input`
   font-size: 1rem;
   &:focus,
   &:hover {
-    outline: solid 1px ${(props) => props.theme.colors.main};
+    outline: solid 1px ${(props) => props.theme.colors.mainGreen};
   }
 `;
 
