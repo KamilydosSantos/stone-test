@@ -3,7 +3,7 @@ import { ThemeProvider } from 'styled-components';
 import { theme } from './theme';
 import styled from 'styled-components';
 import './App.css';
-import Header from './components/header/Header';
+import Header from './components/Header/Header';
 import Converter from './components/converter/Converter';
 
 const Background = styled.div`
