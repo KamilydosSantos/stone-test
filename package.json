@@ -1,5 +1,6 @@
 {
   "name": "stone-test",
+  "homepage": "https://stone-test.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
